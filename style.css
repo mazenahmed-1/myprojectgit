@@ -1,6 +1,13 @@
 h1{
+<<<<<<< HEAD
     color: red;
 }
 body{
     background-color: aqua;
+=======
+    color: black;
+}
+body{
+    background-color: chartreuse;
+>>>>>>> mazen
 }
